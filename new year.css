@@ -1,0 +1,42 @@
+*{
+    margin:0px; 
+    padding:0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    width: 100%;
+    background-image:url("images/banner/banner1.png");
+    background-size: 100% 100%;
+    display: flex;
+}
+.main-div{
+    text-align: right;
+    width:40%;
+    padding:100px;
+}
+.btn-primary{
+    text-align:center;
+    padding: 10px;
+    border-radius: 5px;
+    background: #F15B22;
+    color:white;
+    border:none;
+    margin-top:10px;
+}
+/*end header section*/
+
+.image-section{
+    display: flex;
+    justify-content: space-evenly;
+    margin:50px 0px;
+}
+.image{
+    width: 30%;
+    padding:40px;
+    background-image: url(images/person.png);
+    background-size: 100% 100%;
+}
+.my-favorite-year{
+    width: 40%;
+    padding:50px;
+}
