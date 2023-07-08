@@ -40,3 +40,21 @@
     width: 40%;
     padding:50px;
 }
+/* end image section*/
+
+.development-section{
+    margin:40px;
+}
+.my-plane{
+    text-align: center;
+}
+.web-development{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h1{
+    font-weight: bold;
+    font-size:25px;
+}
