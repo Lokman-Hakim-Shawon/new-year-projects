@@ -63,13 +63,11 @@
     background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
     padding:30px 20px;
 }
-.positive-mindset-section{
-   
+.positive-mindset-section{   
     margin:50px;
     color:white;
     background-image: url(images/watch.png);
-    border-radius: 8px;
-   
+    border-radius: 8px;   
 }
 .btn2{
     background-color: white;
