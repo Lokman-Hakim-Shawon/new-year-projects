@@ -58,3 +58,48 @@
     font-weight: bold;
     font-size:25px;
 }
+/* development section end*/
+.gradiant{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%);
+    padding:30px 20px;
+}
+.positive-mindset-section{
+   
+    margin:50px;
+    color:white;
+    background-image: url(images/watch.png);
+    border-radius: 8px;
+   
+}
+.btn2{
+    background-color: white;
+    border-color: #F15B22;
+    color: #F15B22;
+    font-weight:bold;
+}
+/* start footer section*/
+.footer{
+    background:black;
+    padding:50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.first-h1,.first-p{
+    color:white;
+}
+input[type=text]{
+    width:250px;
+    height:40px;
+    border-radius:8px;
+    color:white;
+    font-weight:bold;
+    padding-left:15px;
+    background-color:black;
+    border:1px solid white;
+}
+.second-footer{
+  
+    flex-direction: column;
+}
